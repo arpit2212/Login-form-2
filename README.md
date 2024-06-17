@@ -10,7 +10,7 @@ This repository contains a simple login form built with HTML and CSS. The form i
 
 ## Preview
 
-![Login Form Preview]()
+![Login Form Preview](https://github.com/arpit2212/Login-form-2/blob/main/Login/Screenshot%202024-06-17%20143935.png)
 
 ## Usage
 
